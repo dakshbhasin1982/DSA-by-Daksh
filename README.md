@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
