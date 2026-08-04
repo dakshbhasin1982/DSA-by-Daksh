@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0344-reverse-string) |
