@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
+| [1009-complement-of-base-10-integer](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1009-complement-of-base-10-integer) |
 ## Database
 |  |
 | ------- |
