@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1470-shuffle-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3731-find-missing-elements) |
 ## Hash Table
