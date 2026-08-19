@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
 ## Sliding Window
 |  |
