@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
