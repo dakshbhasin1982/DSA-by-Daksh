@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0509-fibonacci-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
