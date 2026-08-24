@@ -1,14 +1,14 @@
- class Solution {
+class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int writeIndex = 0;
-          for (int currentElement : nums) {
-             if (currentElement != val) {
-                nums[writeIndex] = currentElement;
-                
-                writeIndex++;
+        int k=0;
+        
+        for(int i=0;i<nums.size();i++){
+            if(nums[i] != val){
+                nums[k] = nums[i]; 
+                k++;
             }
         }
-        return writeIndex;
+        return k;
     }
 };
