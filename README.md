@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0509-fibonacci-number) |
 ## Memoization
