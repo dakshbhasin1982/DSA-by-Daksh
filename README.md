@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3731-find-missing-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
