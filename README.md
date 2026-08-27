@@ -135,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0100-same-tree) |
 ## Dynamic Programming
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
