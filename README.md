@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0485-max-consecutive-ones) |
+| [0896-monotonic-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1470-shuffle-the-array) |
