@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
