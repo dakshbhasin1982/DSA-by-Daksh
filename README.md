@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3731-find-missing-elements) |
