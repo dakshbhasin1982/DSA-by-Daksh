@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
@@ -226,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
