@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3731-find-missing-elements) |
