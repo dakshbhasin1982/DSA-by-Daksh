@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
