@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0151-reverse-words-in-a-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
