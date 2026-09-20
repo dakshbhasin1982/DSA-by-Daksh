@@ -1,4 +1,4 @@
- class Solution {
+class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* firstList, ListNode* secondList) {
 
