@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3498-reverse-degree-of-a-string) |
 ## Z Algorithm
 |  |
 | ------- |
