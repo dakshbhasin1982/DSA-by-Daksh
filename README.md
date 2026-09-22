@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0054-spiral-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Floyd's Cycle Finding Algorithm
 |  |
