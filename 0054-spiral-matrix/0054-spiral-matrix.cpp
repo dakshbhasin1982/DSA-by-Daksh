@@ -1,4 +1,4 @@
- class Solution {
+  class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m = matrix.size();
