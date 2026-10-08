@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1021-remove-outermost-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3498-reverse-degree-of-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0094-binary-tree-inorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
