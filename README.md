@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1920-build-array-from-permutation) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dakshbhasin1982/DSA-by-Daksh/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
